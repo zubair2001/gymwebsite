@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zubair2001/gymwebsite/static/css/main.20acbc28.css",
+    "main.js": "/zubair2001/gymwebsite/static/js/main.6a0d0282.js",
+    "static/media/banner.png": "/zubair2001/gymwebsite/static/media/banner.b3aae5db91f9f4445ad7.png",
+    "static/media/gym.png": "/zubair2001/gymwebsite/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/zubair2001/gymwebsite/index.html",
+    "main.20acbc28.css.map": "/zubair2001/gymwebsite/static/css/main.20acbc28.css.map",
+    "main.6a0d0282.js.map": "/zubair2001/gymwebsite/static/js/main.6a0d0282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.6a0d0282.js"
+  ]
+}
